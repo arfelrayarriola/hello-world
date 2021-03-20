@@ -1,2 +1,5 @@
 # hello-world
-First repository 
+
+Hello!
+
+My name is Arfel and I find coding super fun!
